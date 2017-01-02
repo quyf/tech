@@ -8,3 +8,5 @@ https://my.oschina.net/gsbhz/blog/337719
 tomcat
 TOMCAT源码分析(启动框架)
 http://www.cnblogs.com/rainy-shurun/p/5212585.html
+Tomcat7.0源码分析——生命周期管理
+http://blog.csdn.net/beliefer/article/details/51473807

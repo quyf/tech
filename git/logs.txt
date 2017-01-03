@@ -10,3 +10,9 @@ TOMCAT源码分析(启动框架)
 http://www.cnblogs.com/rainy-shurun/p/5212585.html
 Tomcat7.0源码分析——生命周期管理
 http://blog.csdn.net/beliefer/article/details/51473807
+tomcat源码学习笔记
+http://blog.csdn.net/c929833623lvcha/article/category/1102582
+iteye tomcat 
+http://zddava.iteye.com/category/53603
+设计模式
+http://www.cnblogs.com/wangjq/archive/2012/07/12/2587966.html

@@ -1,6 +1,9 @@
 csdn专栏
 http://blog.csdn.net/www/column.html
 
+CSDN专栏之一起学netty
+http://blog.csdn.net/column/details/enjoynetty.html
+
 CDDN--Tomcat7.0原理与源码分析
 http://blog.csdn.net/column/details/tomcat7-internal.html
 

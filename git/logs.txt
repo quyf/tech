@@ -1,3 +1,6 @@
+博客园 李铁牛 有几篇分布式事务的文章
+http://www.cnblogs.com/leetieniu2014/category/797766.html
+
 五月的仓颉  Java好博客
 http://www.cnblogs.com/xrq730/
 
